@@ -1,0 +1,215 @@
+.body{ display: flex;
+    flex-grow: 1;
+    flex-direction: column
+
+    
+}
+.navbar{
+ display: flex;
+flex-flow:  nowrap;
+ justify-content: space-evenly;
+ color: black;
+
+}
+
+.hero{
+width: 620;
+height: 202;
+gap: 480px;
+margin-left: 2rem;
+opacity: 1;
+}
+ .profile{
+    margin-top: -20%;
+     margin-left: 50%;
+     object-fit: cover;
+ }
+
+ .box{
+padding-top: 24px;
+padding-right: 64px;
+padding-bottom: 24px;
+padding-left: 64px;
+background-color: black;
+width: 5%;
+height: 5%;
+color: white;
+gap: 10px;
+text-align: center;
+ 
+
+ }
+ .submmit{
+    padding: auto;
+ }
+ .main{
+    margin-right: 10rem
+    justify-content: space-evenly
+    display: flex;
+    flex-flow: nowrap
+    margin-bottom: 20%
+    min-width: 576px }
+
+
+
+
+ 
+ .google{margin-right: 5rem;
+    margin-top: 110px;
+
+ }
+
+.nike{
+    margin-right: 5rem;
+     margin-top: 100px;
+}
+.apple{
+    margin-right: 5rem;
+     margin-top: 100px;
+}
+.sam{
+    margin-right: 5rem;
+     margin-top: 100px;
+}
+.ad{
+    margin-right: -5rem;
+     margin-top: 100px;
+}
+.skill{ display: flex;
+    flex-flow: nowrap
+    margin-top: -10%; 
+    margin-bottom:20%;
+}
+
+.div{
+    display: flex
+    justify-content: space-between
+    margin-left: -10%
+     margin-right: -20%
+
+}
+.vv{
+    display: flex;
+}
+}
+.vn1{ margin-top: 50%
+    margin-right: 100%
+    margin-left: 10%
+    flex-flow: nowrap;
+
+}
+.vn13{
+    font-size: x-large
+    flex-flow: nowrap;
+}
+.vn14{
+    flex-flow: nowrap;
+    margin-left: 10%
+    margin-top: -1rem
+
+}
+.fr{
+    margin-left: 5%;
+    margin-right: 20%;
+}
+.vn2{margin-top: 20%
+    flex-flow: wrap;
+    margin-left:10px
+
+}
+.vn23{margin-top: 20%
+
+    flex-flow: nowrap;
+    margin-left:10px
+
+}
+.vn24{
+    margin-top: 20%
+    flex-flow: nowrap;
+    margin-left:10px
+}
+.vn3{
+    margin-top: 20%
+    flex-flow: nowrap;
+    margin-left:10px
+}
+.vn33{
+    margin-top: 20%
+    flex-flow: nowrap;
+    margin-left:10px
+}
+.vn34{
+    margin-top: 20%
+    flex-flow: nowrap;
+    margin-left:10px
+}
+.work{
+    text-align: center;
+    font-size: x-large
+}
+.soft{ 
+    margin-left: 5rem
+    margin-top: 20rem
+    justify-content: space-evenly;
+    display: flex;
+   gap: min(4vw,9vw);
+   margin-left: 5%
+    margin-right: 20%
+
+}
+.text{ text-align: center;
+    font-size: x-large;
+
+}
+.hong{
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    border-color: antiquewhite;
+    background-color: aqua;
+    box-shadow: 2%;
+    
+}
+.fig{
+    display: flex;
+    color:  whitesmoke;
+    justify-content: space-evenly;
+    line-gap-override: 2%
+    margin-left: -7%
+    margin-right: -10%
+}
+.container{
+    border: 5%
+    background-color: black
+    border-width: 5%
+    color: white
+}
+.aside{
+    display: flex;
+}
+    .form{
+        margin-top: 10%;
+        margin-left: 50%;
+    }
+    .together{
+        margin-top: 10%;
+        text-emphasis: 20%;
+    }
+    
+.client{
+    margin-left: -30px;
+}
+.template{
+    margin-left: 10px;
+}
+
+.let{ font-size: x-large;
+    font-weight: 200;
+    margin-left:
+}
+.h2{
+    text-align: center;
+}
+.we{
+    background-color: black;
+
+}
